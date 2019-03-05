@@ -5,6 +5,7 @@ Ascensor
 ## Integrantes del equipo
 
 Cristina Gonzalez Martin 52763
+David
 
 ## Objetivos del trabajo
 
