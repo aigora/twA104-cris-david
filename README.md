@@ -5,7 +5,7 @@ Ascensor
 ## Integrantes del equipo
 
 Cristina Gonzalez Martin 52763
-David
+David Tertre Boyé 54882
 
 ## Objetivos del trabajo
 
